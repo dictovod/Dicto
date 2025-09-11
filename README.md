@@ -56,3 +56,6 @@ Dicto — программа автоматически печатает тек�
 Телефон: 89041111985
 Telegram: t.me/lp85d
 VK: vk.com/den.sochi
+
+![Untitled](https://github.com/user-attachments/assets/583625a2-c978-461c-8511-2d3f04cc5c8e)
+
