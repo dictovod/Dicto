@@ -1,0 +1,10 @@
+{
+    "countdown_seconds": 5,
+    "typing_delay": 0.02,
+    "layout_switch_delay": 0.3,
+    "window_width": 251,
+    "window_height": 441,
+    "window_x": 113,
+    "window_y": 98,
+    "last_text": "1\nv\n2\nb\n3\n4\n5"
+}
