@@ -1,0 +1,2 @@
+Команда для компиляции скрипта в EXE
+pyinstaller --onefile --windowed --uac-admin --icon="C:\Users\user\Downloads\icon.ico" --name="Dicto" --hidden-import=pystray._win32 --hidden-import=win32timezone --hidden-import=pil._tkinter_finder "Dicto_DeepSeek5_1.py"
