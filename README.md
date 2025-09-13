@@ -59,3 +59,6 @@ VK: vk.com/den.sochi
 
 ![Untitled](https://github.com/user-attachments/assets/583625a2-c978-461c-8511-2d3f04cc5c8e)
 
+```"C:\Program Files\qemu\qemu-system-i386.exe" -fda "C:\Users\user\Desktop\kolibri.img"```
+<img width="1028" height="829" alt="image" src="https://github.com/user-attachments/assets/84bb86cf-e73b-4a23-8a7f-320f4f95accd" />
+
